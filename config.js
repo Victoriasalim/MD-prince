@@ -22,15 +22,15 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['918590565968','919446652312'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.owner = ['254746314005','254746314005'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
 global.pemilik = ['918590565968'] //another owner number
-global.premium = ['918590565968'] //premium number
+global.premium = ['254746314005'] //premium number
 global.pengguna = 'prince' //username
 global.botnma = 'MD-prince' //bot name
-global.ownernma = 'prince ser' //owner name
+global.ownernma = 'Salim' //owner name
 global.packname = 'MD-prince' //sticker package name
 global.author = 'By prince' //sticker author name
-global.sessionName = 'session' //session name
+global.sessionName = '' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
 global.mess = {
@@ -42,7 +42,7 @@ global.mess = {
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
     wait: 'In process...',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 24 Hours',
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
